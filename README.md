@@ -42,5 +42,5 @@ I possess a strong foundation across the full development stack, specializing in
 
 I am open to discussing new opportunities and collaborating on innovative projects.
 
-* [[LinkedIn]](https://www.linkedin.com/in/saad-ilyas-software-engineer/)
-* [[Portfolio]](https://saad-portfolio-25.vercel.app/)
+* [[LinkedIn]](https://www.linkedin.com/in/saadilyas99/)
+* [[Portfolio]](https://www.saadilyas.com/)
