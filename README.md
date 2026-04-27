@@ -30,10 +30,10 @@ I possess a strong foundation across the full development stack, specializing in
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Languages** | **JavaScript**, TypeScript, **Python**, PHP, HTML/CSS  |
-| **Frameworks** | **React**, **Node.js**, **NEXT**, Nest.js, **Fast API**, Django, Laravel |
+| **Languages** | **JavaScript**, TypeScript, **Python**, HTML/CSS  |
+| **Frameworks** | **React.js**, **Node.js**, **Next.js**, Nest.js, **Fast API**, Django, Laravel |
 | **Databases** | MongoDB, **PostgreSQL**, **MySQL**, SQLite, Supabase  |
-| **AI/Analytics** | Langchain, Huggingface, OpenAI, Grok, Pandas, NumPy, Power BI, TensorFlow  |
+| **AI/Analytics** | Langchain, Pandas, NumPy, Power BI, TensorFlow  |
 | **Tools/DevOps** | Git, Docker, Postman, AWS, SEO, Notion, Gerrit, Prompt Engineering  |
 
 ---
