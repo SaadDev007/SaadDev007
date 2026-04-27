@@ -8,7 +8,7 @@ I am a dedicated **Software Engineer** specializing in full-stack development (M
 
 I am currently working as a Software Engineer at the **China National Nuclear Corporation (CNNC)**. My focus is on:
 
-* **Full-Stack Development (MERN):** Developing and contributing to the full-stack development of an internal procurement ERP system from scratch to replace an outdated legacy solution. This innovation transformed the procurement pipeline, resulting in a **40% increase in processing speed** and significantly enhancing departmental efficiency.
+* **Full-Stack Development (MERN):** Developing and contributing to the full-stack development of an internal procurement ERP system from scratch to replace an outdated legacy solution. This innovation transformed the procurement pipeline, resulting in a **50% increase in processing speed** and significantly enhancing departmental efficiency.
 * **Data Analysis:** Leveraging **Python** and **Power BI** to perform in-depth data analysis, generating actionable insights critical for optimizing nuclear plant equipment management.
 * **Security & Compliance:** Assisted in the implementation of the **NIST Cybersecurity Framework** to ensure robust security measures and compliance.
 
